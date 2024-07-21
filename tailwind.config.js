@@ -1,4 +1,3 @@
-cat << EOF > tailwind.config.js
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx}",
